@@ -4,7 +4,7 @@ A module to create a hash from text by translating the text into a hex, adding a
 ### How to install
 Open your console and paste it
 ```
-pip install hexedhash==1.0.0
+pip install hexedhash
 ```
 
 ### How to use
