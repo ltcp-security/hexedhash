@@ -2,7 +2,7 @@
 A module to create a hash from text by translating the text into a hex, adding a "salt" and trimming out the extra parts.
 
 ### How to install
-Open your console and paste it
+Open your terminal and paste it
 ```
 pip install hexedhash
 ```
